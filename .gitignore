@@ -1,0 +1,13 @@
+# .NET
+bin/
+obj/
+.vs/
+*.user
+
+# Configuração com valores reais (bucket, função, pastas)
+appsettings.local.json
+appsettings.*.local.json
+
+# Lambda
+node_modules/
+lambda.zip
